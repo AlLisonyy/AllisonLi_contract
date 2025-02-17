@@ -1,6 +1,6 @@
 Grading Contract
 ================
-January 25 2025
+February 09 2025
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
@@ -41,7 +41,6 @@ rearrange these labs and events to fit your needs.
 - [ ] Module 03, 01/27 - 01/31 : Grammar of data wrangling
 
   - Finish Lab 3 by Friday: 01/31
-  - Finish portfolio piece 1 by Friday: 01/31
 
 - [ ] Module 04, 02/03 - 02/07 : Data types and Data Transformations
 
@@ -50,12 +49,13 @@ rearrange these labs and events to fit your needs.
 - [ ] Module 05, 02/10 - 02/14 : Tips for effective data visualization
 
   - Finish Lab 5 by Friday: 02/14
-  - Finish portfolio piece 2 by Friday: 02/14
+  - Finish portfolio piece 1 by Friday: 02/14
 
 - [ ] Module 06, 02/17 - 02/21 : Scientific studies and confounding
 
   - Finish Lab 6 by Friday: 02/21
   - Schedule a check-in with Mason by Friday: 02/21
+  - Finish portfolio piece 2 by Friday: 02/21
 
 - [ ] Module 07, 02/24 - 02/28 : Web scraping
 
